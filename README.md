@@ -2,7 +2,7 @@
 
 ## Description
 
-The "RickRollScript" extension is a Chrome extension designed to play a lighthearted prank on users. When they click on a specified link, it will "Rickroll" them by redirecting to Rick Astley's "Never Gonna Give You Up" music video.
+The "RickRollScript" is a Chrome extension designed to play a lighthearted prank on users. When they click on a specified link, it will "Rickroll" them by redirecting to Rick Astley's "Never Gonna Give You Up" music video.
 
 ## Version
 
