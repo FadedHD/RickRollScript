@@ -6,7 +6,7 @@ The "RickRollScript" extension is a Chrome extension designed to play a lighthea
 
 ## Version
 
-- Version: 1.0
+- Version: 1.1
 
 ## How to Install
 
